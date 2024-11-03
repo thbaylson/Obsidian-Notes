@@ -1,0 +1,1 @@
+Falsely pledges loyalty to [[Hrathen]] only to betray him later. He turns out to be the head of one of the secret monasteries.

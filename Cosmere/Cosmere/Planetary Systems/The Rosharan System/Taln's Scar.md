@@ -1,0 +1,1 @@
+"A swath of deep red stars that stood out vibrantly from the twinkling white ones." A constellation in [[The Rosharan System]]. This may be named after Talenel.

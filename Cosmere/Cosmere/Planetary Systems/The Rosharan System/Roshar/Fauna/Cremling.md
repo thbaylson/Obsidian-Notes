@@ -1,0 +1,1 @@
+An insect-like creature found on [[Cosmere/Planetary Systems/The Rosharan System/Roshar/Places/Roshar|Roshar]].

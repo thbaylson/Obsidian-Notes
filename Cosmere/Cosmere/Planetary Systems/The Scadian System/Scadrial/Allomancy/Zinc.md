@@ -1,0 +1,1 @@
+An allomantic metal. A Misting who burns this metal is a [[Rioter]], the opposite of a Soother.

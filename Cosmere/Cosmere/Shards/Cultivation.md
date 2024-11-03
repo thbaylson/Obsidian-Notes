@@ -1,0 +1,1 @@
+One of the Shards currently on Roshar.

@@ -1,0 +1,1 @@
+The collection point of [[Preservation]]'s power. Every thousand years of so, the well fills with enough power for a mortal to ascend to godhood.

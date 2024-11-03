@@ -1,0 +1,1 @@
+[[Kaladin|Kal]]'s younger brother. He had a strange fascination with rocks.

@@ -1,0 +1,1 @@
+A Misting who can burn [[Iron]]. Lurchers pull metal towards themselves. This is the opposite of a Coinshot.

@@ -1,0 +1,1 @@
+One of [[The Returned]]. Goddess of honesty and beauty.

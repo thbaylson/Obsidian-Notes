@@ -1,0 +1,1 @@
+Our inn while we're in [[Saltmarsh]].

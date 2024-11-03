@@ -1,0 +1,1 @@
+The ruling class of the [[Final Empire]].

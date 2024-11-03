@@ -1,0 +1,1 @@
+An allomantic metal. A Misting who burns this metal is a [[Smoker]], the opposite of a Seeker.

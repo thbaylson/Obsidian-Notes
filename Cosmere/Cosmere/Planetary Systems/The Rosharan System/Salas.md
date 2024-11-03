@@ -1,0 +1,1 @@
+One of [[Cosmere/Planetary Systems/The Rosharan System/Roshar/Roshar|Roshar]]'s moons. The smallest and dimmest. Violet in color. This might be the "first moon" in the nightly cycle. It's unclear if that is always the case.

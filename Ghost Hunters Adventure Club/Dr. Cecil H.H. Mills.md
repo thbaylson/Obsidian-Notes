@@ -1,0 +1,1 @@
+Author of the [[Ghost Hunters Adventure Club]] books. Also, a character within the books themselves. Also, the narrator of the audio books. The voice is Arin Hanson, but it's unclear if he is also the writer.

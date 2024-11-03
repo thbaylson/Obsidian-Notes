@@ -1,0 +1,1 @@
+Revered as one of the [[Shard]] on [[Sel]].

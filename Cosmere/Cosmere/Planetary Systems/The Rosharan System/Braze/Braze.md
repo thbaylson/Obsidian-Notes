@@ -1,0 +1,1 @@
+One of the three planets in [[The Rosharan System]]. Cold and inhospitable. It is home to an ecosystem of "self aware splinters." Some of them may be "cognitive shadows".

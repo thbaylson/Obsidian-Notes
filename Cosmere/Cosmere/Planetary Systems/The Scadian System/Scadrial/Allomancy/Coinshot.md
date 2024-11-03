@@ -1,0 +1,1 @@
+A Misting who can burn [[Steel]]. Coinshots push metal away from themselves. This is the opposite of a Lurcher.

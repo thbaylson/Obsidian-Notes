@@ -1,0 +1,1 @@
+A plant found on [[Cosmere/Planetary Systems/The Rosharan System/Roshar/Places/Roshar|Roshar]]. Black narrow leaves on a trefoil prong.

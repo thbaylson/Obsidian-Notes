@@ -1,0 +1,1 @@
+At the very start of the book, [[Vasher]] convinces Vahr to give him all of his [[Breath]]. Several hundreds worth.

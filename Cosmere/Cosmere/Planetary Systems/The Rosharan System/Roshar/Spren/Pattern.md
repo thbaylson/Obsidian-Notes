@@ -1,0 +1,1 @@
+A [[Spren]] bonded to [[Shallan Devar]].

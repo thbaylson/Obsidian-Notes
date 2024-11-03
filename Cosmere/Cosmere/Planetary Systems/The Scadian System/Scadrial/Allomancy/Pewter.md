@@ -1,0 +1,1 @@
+An allomantic metal. A Misting who burns this metal is a Pewterarm or, more commonly, a [[Thug]].

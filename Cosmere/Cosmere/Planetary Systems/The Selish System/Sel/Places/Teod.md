@@ -1,0 +1,1 @@
+A nation across the sea from [[Elantris]].

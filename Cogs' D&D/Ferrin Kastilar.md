@@ -1,0 +1,1 @@
+A nearby druid, lives out in the old seagrove, he may know about the old alchemists mansion.

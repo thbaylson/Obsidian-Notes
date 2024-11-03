@@ -1,0 +1,1 @@
+Another writer. Perhaps a rival to [[Dr. Cecil H.H. Mills]]?

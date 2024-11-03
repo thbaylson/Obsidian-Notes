@@ -1,0 +1,1 @@
+An old and mysterious wizard of [[Saltmarsh]]. The supposedly deceased owner of [[The Mansion]].

@@ -1,0 +1,1 @@
+Fought on [[Kaladin|Kaladin]]'s side in the skirmish against(?) Amaram.

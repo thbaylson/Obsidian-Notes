@@ -1,0 +1,1 @@
+"A whopping 3 planets in the habitable zone... all of which are inhabited."

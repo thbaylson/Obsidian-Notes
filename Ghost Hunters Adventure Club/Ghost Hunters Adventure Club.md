@@ -1,0 +1,1 @@
+A ghost hunting club founded by JJ Watts and Valentino Watts. Different characters make occasional quips towards the validity of their blood relation.

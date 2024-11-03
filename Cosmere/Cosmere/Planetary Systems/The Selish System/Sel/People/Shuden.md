@@ -1,0 +1,1 @@
+A Jindo merchant. A good friend to [[Raoden]] and [[Sarene]].
