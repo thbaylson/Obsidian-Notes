@@ -1,4 +1,9 @@
-[[Computer Science Vocabulary]]
+---
+aliases:
+  - K8s
+---
+
+[[3rd Party Software]]
 (Info per Adam Udi's presentation)
 
 Containerization in its modern form was made popular by Docker.

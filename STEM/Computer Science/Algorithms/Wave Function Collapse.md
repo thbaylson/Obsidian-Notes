@@ -2,7 +2,7 @@
 tags:
 ---
 
-[[Computer Science Algorithms]]
+[[Algorithms]]
 
 Source: https://github.com/mxgmn/WaveFunctionCollapse
 
