@@ -9,4 +9,4 @@ Arcanum Unbounded, Ch \_.
 
 "This [[Shard]] caused the splintering of the Shards [[Devotion]], [[Dominion]], [[Honor]], and perhaps others throughout the [[Cosmere]]."
 
-"Odium comes. Most dangerous of all the sixteen." - A voice of thunder, spoken to Kaladin during a Highstorm induced fever dream.
+"Odium comes. Most dangerous of all the sixteen." - A voice of thunder, spoken to Kaladin during a Highstorm induced fever dream. #Theorycraft why does the Stormfather say sixteen, but the [[Missive]] says there is a seventeenth?

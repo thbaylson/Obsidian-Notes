@@ -1,1 +1,1 @@
-This is "where most forms of [[Investiture]] reside." Does not have distinct locations.
+This is "where most forms of [[Investiture]] reside." Does not have distinct locations. (Need to find where this was quoted from. Arcanum Unbounded?)

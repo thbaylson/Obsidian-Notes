@@ -2,6 +2,8 @@
 aliases:
   - Veden
   - Horneater
+tags:
+  - Nations
 ---
 
 ---

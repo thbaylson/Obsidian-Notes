@@ -3,7 +3,7 @@ aliases:
   - Shards
   - Shards of Adonalsium
 ---
-Also known as "Shards of [[Adonalsium]]." There are 16 in total.
+Also known as "Shards of [[Adonalsium]]." There are 16 (actually 17) in total.
 
 These beings are powerful. They are very often revered as gods by any sentient species that interacts with them.
 

@@ -1,4 +1,4 @@
-10 (or 20?) Orders of Knights.
+10 Orders of Knights. Each order wields their own kind of [[Surgebinding]].
 
 
 Orders of Knights:
@@ -8,3 +8,4 @@ Orders of Knights:
 - [[Truthseeker]]
 - [[Bondsmith]]
 - [[Edgedancer]]
+- [[Stoneward]]

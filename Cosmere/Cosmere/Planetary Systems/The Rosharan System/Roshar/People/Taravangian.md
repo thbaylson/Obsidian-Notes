@@ -1,8 +1,8 @@
 ---
 aliases:
   - King of Kharbranth
----
-
+tags:
+  - Characters
 ---
 King Taravandian of [[Kharbranth]].
 

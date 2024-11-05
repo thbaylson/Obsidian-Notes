@@ -9,4 +9,4 @@ Known Systems
 - [[The Threnodite System]]
 
 ## #Theorycraft
-The [[Cosmere]] has a number of [[Shard]]. These Gods must follow certain consequences, which define what they can and cannot do. This is a natural phenomenon, just like how "if you drop a rock, then as a consequence it will fall to the ground."
+The [[Cosmere]] has a number of [[Shard]]s. These Gods must follow certain consequences, which define what they can and cannot do. This is a natural phenomenon, just like how "if you drop a rock, then as a consequence it will fall to the ground." (Why is this quoted? Where did it come from?)
