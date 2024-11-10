@@ -41,5 +41,7 @@ Ch 52: A Highway To The Sun
 "I'm standing over the body of a brother. I'm weeping. Is that his blood or mine? What have we done?"
 \- Dated Vevanev, 1173, 107 seconds pre-death. Subject: an out-of-work [[Jah Keved|Veden]] sailor.
 
+Ch 58: 
+
 Endnote
 "Above silence, the illuminating storms -dying storms- illuminate the silence above."

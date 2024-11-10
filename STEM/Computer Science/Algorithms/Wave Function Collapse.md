@@ -4,7 +4,7 @@ tags:
 
 [[Algorithms]]
 
-Source: https://github.com/mxgmn/WaveFunctionCollapse
+Source: [Maxim Gumin's GitHub](https://github.com/mxgmn/WaveFunctionCollapse)
 
 ## Overview
 ---
