@@ -6,6 +6,7 @@ tags:
   - Characters
   - Main_Characters
 ---
+
 [[Gavilar Kholin]]'s brother.
 [[Adolin Kholin]] and [[Renarin Kholin]]'s father.
 [[Elhokar Kholin]] and [[Jasnah Kholin]]'s uncle.

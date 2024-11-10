@@ -1,4 +1,4 @@
-One of the [[Shard]] in the Mistborn Series. [[Allomancy]] comes from Preservation. 
+One of the [[Shard|Shards]] in the Mistborn Series. [[Allomancy]] comes from Preservation. 
 
 Throughout *"The Well of Ascension"* and *"The Hero of Ages"* he appears as the mist spirit.
 

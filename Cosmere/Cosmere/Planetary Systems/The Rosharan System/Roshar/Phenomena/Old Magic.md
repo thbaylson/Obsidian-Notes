@@ -1,1 +1,7 @@
+---
+aliases: 
+tags:
+  - Magic
+---
+
 Usually spoken in the same breath as the Nightwatcher. #Theorycraft The Nightwatcher is an old and powerful Spren, similar to the Stormfather.

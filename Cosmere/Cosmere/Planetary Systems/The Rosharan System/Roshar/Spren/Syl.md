@@ -1,4 +1,8 @@
-
+---
+aliases: 
+tags:
+  - Characters
+---
 
 A handspan tall. Formed of blues and white.
 

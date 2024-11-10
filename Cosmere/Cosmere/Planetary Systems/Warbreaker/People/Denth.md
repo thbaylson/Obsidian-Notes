@@ -1,3 +1,9 @@
+---
+aliases: 
+tags:
+  - Characters
+---
+
 [[Vivenna]]'s mercenary friend. Originally, his contract was held by Lemex, before Lemex's untimely death.
 
 His crew includes:

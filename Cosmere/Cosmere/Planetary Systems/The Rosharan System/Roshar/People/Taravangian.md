@@ -4,7 +4,7 @@ aliases:
 tags:
   - Characters
 ---
-King Taravandian of [[Kharbranth]].
+King Taravangian of [[Kharbranth]].
 
 Is secretly looking into the phenomenon of [[Words spoken just before death]].
 

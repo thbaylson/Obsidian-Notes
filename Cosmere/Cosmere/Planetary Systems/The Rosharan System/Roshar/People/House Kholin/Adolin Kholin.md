@@ -5,6 +5,7 @@ tags:
   - Characters
   - Main_Characters
 ---
+
 [[Dalinar Kholin]]'s first born son.
 [[Renarin Kholin]]'s brother.
 [[Elhokar Kholin]] and [[Jasnah Kholin]]'s cousin.

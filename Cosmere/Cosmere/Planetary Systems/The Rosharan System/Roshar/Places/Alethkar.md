@@ -58,3 +58,6 @@ Masculine vs Feminine
 
 ## History
 Alethela is the ancient name for Alethkar. 
+
+## Physical Features
+The Alethi are known for being tall, with tan skin and black hair.

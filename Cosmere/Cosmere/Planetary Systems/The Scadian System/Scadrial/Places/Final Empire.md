@@ -1,5 +1,5 @@
 ---
 aliases: 
 tags:
-  - Characters
+  - Nations
 ---

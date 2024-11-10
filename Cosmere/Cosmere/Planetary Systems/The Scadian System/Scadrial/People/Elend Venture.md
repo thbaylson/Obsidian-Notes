@@ -1,3 +1,11 @@
+---
+aliases:
+  - Elend
+  - El
+tags:
+  - Characters
+---
+
 Married to [[Vin]].
 Son of [[Straff Venture]].
 Brother of [[Zane Venture]].

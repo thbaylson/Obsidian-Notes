@@ -4,7 +4,7 @@ tags:
   - Main_Characters
 ---
 
-A [[Shu-Dereth|Derethi]] Gyorn. Given orders by Wyrn himself to bring [[Shu-Dereth]] to [[Arelon]].
+A [[Shu-Dereth|Derethi]] Gyorn from [[Fjorden]]. Given orders by Wyrn himself to bring [[Shu-Dereth]] to [[Arelon]].
 Trained in a secret Derethi monastery.
 
 He has his own [[Seon]] which he uses for direct communication with Wyrn.

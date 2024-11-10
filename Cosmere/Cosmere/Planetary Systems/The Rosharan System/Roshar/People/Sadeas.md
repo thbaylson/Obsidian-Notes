@@ -6,6 +6,8 @@ tags:
 ---
 Colors: Burgundy and deep forest green.
 
+[[Ialai]]'s husband.
+
 Half Shardbearer:
 - Shardplate. Painted red.
 

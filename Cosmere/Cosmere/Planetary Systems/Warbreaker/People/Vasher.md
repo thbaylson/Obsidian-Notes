@@ -3,6 +3,9 @@ aliases:
   - Peacegiver
   - Warbreaker
   - Kalad
+tags:
+  - Characters
+  - Main_Characters
 ---
 
 

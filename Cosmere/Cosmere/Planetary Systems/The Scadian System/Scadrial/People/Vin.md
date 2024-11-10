@@ -1,3 +1,11 @@
+---
+aliases: 
+tags:
+  - Characters
+  - Main_Characters
+---
+
+
 Married to [[Elend Venture]].
 Part of [[Kelsier]]'s crew.
 Sister of [[Reen]]. She occasionally still hears him whisper insidious words in the back of her mind.

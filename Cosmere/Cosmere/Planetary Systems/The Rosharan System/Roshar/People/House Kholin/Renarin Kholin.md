@@ -4,6 +4,7 @@ aliases:
 tags:
   - Characters
 ---
+
 [[Dalinar Kholin]]'s second son.
 [[Adolin Kholin]]'s brother.
 [[Elhokar Kholin]]'s cousin.

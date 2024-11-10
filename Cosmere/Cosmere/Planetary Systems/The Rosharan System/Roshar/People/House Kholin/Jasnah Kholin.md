@@ -4,6 +4,7 @@ aliases:
 tags:
   - Characters
 ---
+
 [[Gavilar Kholin|Gavilar]]'s daughter.
 [[Elhokar Kholin|King Elhokar]]'s sister.
 [[Shallan Devar]]'s teacher.

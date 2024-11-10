@@ -1,6 +1,8 @@
 ---
 aliases:
   - Purelaker
+tags:
+  - Geography
 ---
 Ch I-1
 "The Purelake extended in all directions, hundreds of miles wide, its glassy surface perfectly transparent. At its deepest, it was never more than six feet from shimmering surface to the bottom - and in most places, the worm, slow-moving water came up only to about midcalf. It was filled with tiny fish, colorful cremlings, and eel-like riverspren."

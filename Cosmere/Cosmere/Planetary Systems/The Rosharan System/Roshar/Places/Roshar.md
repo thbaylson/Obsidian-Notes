@@ -3,11 +3,10 @@ aliases:
   - Roshar (Continent)
 ---
 Main continent of [[Cosmere/Planetary Systems/The Rosharan System/Roshar/Roshar|Roshar (Planet)]].
-### Cities
-[[Urithiru]]
-[[Kharbranth]]
+
 
 ## Geography
+### Physical Features
 [[Shattered Plains]]
 [[Reshi Isles]]
 [[The Purelake]]
@@ -23,6 +22,14 @@ Main continent of [[Cosmere/Planetary Systems/The Rosharan System/Roshar/Roshar|
 [[Tashikk]]
 [[Aimia]]
 [[Babatharnam]] - "The Most Ancient" is the title of their leader.
+
+### Cities
+[[Urithiru]]
+[[Kharbranth]]
+
+## Currency
+The main currency throughout all of Roshar is made up of Spheres. 
+#Theorycraft Could this be the physical body of a Shard, similar to how Atium was the physical body of Ruin?
 
 # History
 ## The Silver Kingdoms Epoch

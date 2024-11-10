@@ -1,3 +1,10 @@
+---
+aliases: 
+tags:
+  - Characters
+  - Main_Characters
+---
+
 Princess of [[Idris]].
 
 As a member of the [[Idris]] royal family, her hair changes color according to her emotions.

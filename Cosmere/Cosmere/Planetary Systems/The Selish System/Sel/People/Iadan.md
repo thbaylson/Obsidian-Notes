@@ -1,3 +1,9 @@
+---
+aliases: 
+tags:
+  - Characters
+---
+
 King of [[Arelon]].
 
 [[Eshen]]'s husband.

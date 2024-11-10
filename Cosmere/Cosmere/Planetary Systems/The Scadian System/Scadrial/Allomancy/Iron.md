@@ -1,1 +1,0 @@
-An allomantic metal. A Misting who burns this metal is a [[Lurcher]], the opposite of a Coinshot.

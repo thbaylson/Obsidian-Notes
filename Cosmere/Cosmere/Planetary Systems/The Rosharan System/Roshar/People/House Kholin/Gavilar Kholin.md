@@ -5,6 +5,7 @@ aliases:
 tags:
   - Characters
 ---
+
 Colors: Blue & Silver(?)
 
 Once, he was the King of [[Alethkar]]. Brother to [[Dalinar Kholin]]. A devout follower of [[Vorinism]]. Now, he is dead.

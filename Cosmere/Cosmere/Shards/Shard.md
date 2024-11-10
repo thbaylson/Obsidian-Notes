@@ -28,4 +28,4 @@ These beings are worshipped, but it's unclear if they are Shards:
 - [[Domi]] (Possibly Dominion?)
 - [[Jesker]]
 
-I believe the Shards listed here may be more accurately called "First Degree Shards." They're direct splinters of Adonalsium. I think these Shards can splinter further to create Spren and Ceons, which might be considered "Second Degree Shards."
+I believe the Shards listed here may be more specifically called first degree Shards. They're direct splinters of Adonalsium. I think these Shards can splinter further to create Spren and Ceons, which might be considered second degree Shards. So called Shardblades and Shardplate may also be second degree shards, but in the Physical Realm.

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Idrian
+tags:
+  - Cities
 ---
 
 ---
@@ -15,5 +17,3 @@ If their hair is cut, the severed pieces will remain whatever color they were at
 For a society that prides itself on modesty, drawing attention to one's emotions is seen as shameful. Thus, the royal family strives to keep their emotions under control and hair black. [[Vivenna]] is notably excellent at doing this while [[Siri]] has no ability to do so whatsoever.
 
 Idrians still worship [[Austre]] and regard the [[T'Telir]] people as blasphemers.
-
-#Cities 

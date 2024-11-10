@@ -1,3 +1,10 @@
+---
+aliases:
+  - Breaths
+tags:
+  - Magic
+---
+
 A form of [[Investiture]].
 
 Awakening, the art of using Breath/BioChroma.
@@ -15,4 +22,3 @@ If an individual doesn't have a single breath, they are a Drab.
 4. .
 5. Immortality
 
-#Magic 

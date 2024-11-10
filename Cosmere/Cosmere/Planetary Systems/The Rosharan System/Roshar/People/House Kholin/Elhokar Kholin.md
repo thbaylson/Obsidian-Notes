@@ -5,6 +5,7 @@ aliases:
 tags:
   - Characters
 ---
+
 [[Gavilar Kholin|King Gavilar]]'s only son and inheritor of the throne.
 [[Jasnah Kholin]]'s brother.
 [[Dalinar Kholin]]'s nephew.

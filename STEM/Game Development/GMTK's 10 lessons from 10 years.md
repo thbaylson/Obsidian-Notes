@@ -4,7 +4,7 @@
 Original Video: [10 Game Design Lessons from 10 Years of GMTK](https://www.youtube.com/watch?v=Cm2_drGLGbc)
 
 The ten biggest lessons Mark Brown learned from the last decade of learning about game design. Each lesson is accompanied by related videos by GMTK.
-## 1: A game is its [[Game Mechanics|Mechanics]]
+## 1: A game is its [[Game Mechanics|mechanics]]
 If you want to understand why a game makes you feel a certain way, ask yourself: how do the mechanics contribute to the experience?
 
 Related Videos: 

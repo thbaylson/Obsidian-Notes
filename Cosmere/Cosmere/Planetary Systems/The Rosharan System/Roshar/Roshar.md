@@ -3,7 +3,6 @@ aliases:
   - Roshar (Planet)
 ---
 
----
 One of the worlds in [[The Rosharan System]]. The middle planet.
 Size: 0.9 Cosmere Standard
 Gravitation: 0.7 Cosmere Standard
@@ -17,7 +16,7 @@ There is a deep relationship between the symbiosis of Spren and the human and no
 [[Spren]]
 
 ## History
-[[Desolation]]s
+[[Desolation|Desolations]]
 
 ## Magic
 [[Stormlight]]

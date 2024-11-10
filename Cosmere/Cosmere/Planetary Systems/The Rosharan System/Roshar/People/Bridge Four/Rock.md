@@ -2,7 +2,7 @@
 tags:
   - Characters
 ---
-The Horneater member of [[Bridge Four]].
+The [[Jah Keved|Horneater]] member of [[Bridge Four]].
 
 "By the *uli'tekanaki*, Kaladin. I almost believe you'll do it."
 
